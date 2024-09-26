@@ -1,0 +1,8 @@
+/content/person1.jpg
+/content/person2.jpg
+/content/*person*.jpg
+/content/*person*.png
+/style/*person*.jpg
+/style/*person*.png
+/output/*person*.jpg
+/output/*person*.png
